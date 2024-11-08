@@ -74,7 +74,7 @@
     .list-menu {
         display: none;
         position: absolute;
-        top: 8%;
+        top: 10vw;
         width: 50vw;
         border: solid 1px var(--color-font);
         border-radius: 5vw;
