@@ -11,9 +11,13 @@
 }
 
 .welcome-h1 {
-    padding-top: 25vw;
+    padding-top: 2vw;
     padding-bottom: 7vw;
     color: var(--color-font);
+}
+
+.welcome-img {
+    width: 80%;
 }
 
 @media screen and (max-width:425px) {
